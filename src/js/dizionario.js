@@ -6,5 +6,5 @@ export default [
     'deodorante', 'zingaro','fifone','fegato','pippo','pescivendolo','karate','judoka','hotel','fifa','gin',
     'kino','gino','leccalecca','fagiano','pupazzo','gallina','zotico','zecca','gioacchino','gara','maratona',
     'roma','milano','napoli','banzai','sedia','clown','we','xena','borotalco','fuoco','pizza','pezzo','panettone',
-    'diocleziano'
+    'diocleziano','roma','fauna','cavallo','zona','ferro','web','june','vigore','lame','nebbia','hotel'
 ]
